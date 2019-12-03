@@ -64,7 +64,7 @@
 	</div>
 	</div>
 	<?php echo "test heroku"; ?>
-	<?php echo "test heroku 2"; ?>
+	<?php echo "test heroku 23"; ?>
 
 	</div>
 </div>
